@@ -2,7 +2,7 @@
 name: Balance suggestion
 about: Suggest how to better balance an aspect of the mod
 title: ''
-labels: ''
+labels: Game Balance Issue
 assignees: ''
 
 ---
