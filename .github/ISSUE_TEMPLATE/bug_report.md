@@ -25,4 +25,4 @@ Steps to reproduce the behavior:
 If applicable, add screenshots to help explain your problem.
 
 **Additional context**
-Add any other context about the problem here.
+Add any other context about the problem, such as links to a discord discussion, here.
